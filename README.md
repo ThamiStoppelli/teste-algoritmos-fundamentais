@@ -5,9 +5,9 @@ Disciplina: Ambientes de Desenvolvimento de Software<br>
 Aluna: Thamires Stoppelli Ribeiro<br>
 Matrícula: 2128916<br>
 
-Iniciar o projeto:
-npm i
-npm test
+Iniciar o projeto:<br>
+<b>npm i</b><br>
+<b>npm test</b><br>
 
-Rodar o projeto realizando os testes:
-npm test
+Rodar o projeto realizando os testes:<br>
+<b>npm test</b>
