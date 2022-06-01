@@ -1,9 +1,9 @@
 # teste-algoritmos-fundamentais
 <b>Entregável #4 - Código limpo e sincronizado no Github</b>
 
-Disciplina: Ambientes de Desenvolvimento de Software
-Aluna: Thamires Stoppelli Ribeiro
-Matrícula: 2128916
+Disciplina: Ambientes de Desenvolvimento de Software<br>
+Aluna: Thamires Stoppelli Ribeiro<br>
+Matrícula: 2128916<br>
 
 Iniciar o projeto:
 npm i
