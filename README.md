@@ -7,7 +7,6 @@ Matrícula: 2128916<br>
 
 Iniciar o projeto:<br>
 <b>npm i</b><br>
-<b>npm test</b><br>
 
 Rodar o projeto realizando os testes:<br>
 <b>npm test</b>
